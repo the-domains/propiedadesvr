@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[PropiedadesVR]]></title>
         <description><![CDATA[PropiedadesVR]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/propiedadesvr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 20:13:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Mar 2016 20:36:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/propiedadesvr/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>El primer Portal de Propiedades en Realidad Virtual Llega a Colombia.Espéralo Pronto...</p>]]></description>
-            <link>undefined0b20a491-f4e3-42ac-ba13-90e0257b7df3/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31b4f484-6853-4f8c-97e7-36380e4c191e.png">]]></description>
+            <link>https://thegrid.ai/propiedadesvr/0b20a491-f4e3-42ac-ba13-90e0257b7df3/index.html</link>
             <guid isPermaLink="false">0b20a491-f4e3-42ac-ba13-90e0257b7df3</guid>
-            <pubDate>Thu, 03 Mar 2016 20:13:42 GMT</pubDate>
+            <pubDate>Thu, 03 Mar 2016 20:35:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
